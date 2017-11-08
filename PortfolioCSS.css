@@ -1,0 +1,14 @@
+footer {
+    bottom: 0;
+    width: 100%;
+}
+
+.section {
+    margin: 0 auto;
+}
+
+.section1 {
+    margin-left: 100px;
+    font-family: arial; 
+}
+
